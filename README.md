@@ -30,12 +30,12 @@ This is a project of the [VanLife on Scrimba](https://scrimba.com/learn/frontend
 
 ### Screenshot
 
-![screenshot](/public/screenshoot.png)
+![screenshot](/assets/images/screenshoot.png)
 
 ### Links
 
-- Live Site URL: [@Netlify](https://component-liby.netlify.app/)
-- Solution URL: [@GitHub](https://github.com/Isaacvf-dev/Component-Library)
+- Live Site URL: [@Netlify](https://vanlifey.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/Isaacvf-dev/vanlife-react-router)
 
 ### Getting Started with Create React App
 
